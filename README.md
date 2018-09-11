@@ -1,2 +1,2 @@
 # gominion
-A Dominion Simulator in Go
+A Simulator in Go
