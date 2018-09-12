@@ -1,4 +1,0 @@
-package gominion
-
-func Play() {
-}
