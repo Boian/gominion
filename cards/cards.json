@@ -1,0 +1,18 @@
+{"cardList": 
+    [
+        {
+            "name":"Copper",
+            "cost":0,
+            "buyingPower":1,
+            "victoryPoints":0,
+            "cardTypes":["Tresure"]
+        },
+        {
+            "name":"Estate",
+            "cost":2,
+            "buyingPower":0,
+            "victoryPoints":1,
+            "cardTypes":["Victory"]
+        }
+    ]
+}
