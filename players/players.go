@@ -10,6 +10,16 @@ type Player struct {
     Deck        Deck // teh player's deck 
 }
 
+func (p *Player) Turn() {
+    var actions = 1
+    var buys = 1
+    // Player turn
+    // Optional Play Card
+    // Buy card
+    p.DiscardHand()
+    p.DrawHand()
+}
+
 func (p *Player) DrawCard() {
     // Draw a card
     // Take top deck card
